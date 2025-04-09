@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class PracticeProblem {
+public class PracticeProblem { //
 
     public static String readFile(String filename) {
         StringBuilder content = new StringBuilder();
